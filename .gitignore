@@ -1,6 +1,6 @@
-/fashion_small
-/Demo
-/sample
-/uploader
+fashion_small/
+Demo/
+sample/
+uploader/
 image_features_embedding.pkl
 img_files.pkl
